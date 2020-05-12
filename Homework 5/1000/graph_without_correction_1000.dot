@@ -1,0 +1,15 @@
+graph {96 -> 1384[label="cov=224, len=92"];
+97 -> 1600[label="cov=9, len=3"];
+97 -> 1866[label="cov=161, len=460"];
+1384 -> 1658[label="cov=2, len=4"];
+1384 -> 1759[label="cov=123, len=286"];
+1385 -> 97[label="cov=224, len=92"];
+1601 -> 96[label="cov=9, len=3"];
+1659 -> 1385[label="cov=2, len=4"];
+1716 -> 1874[label="cov=9, len=12"];
+1758 -> 1385[label="cov=123, len=286"];
+1867 -> 96[label="cov=161, len=460"];
+1868 -> 1882[label="cov=28, len=82"];
+1875 -> 1717[label="cov=9, len=12"];
+1883 -> 1869[label="cov=28, len=82"];
+}

@@ -1,0 +1,1 @@
+graph {96->1384[label="cov=224, len=92"];97->1866[label="cov=161, len=460"];1384->1759[label="cov=123, len=286"];1385->97[label="cov=224, len=92"];1758->1385[label="cov=123, len=286"];1867->96[label="cov=161, len=460"];1868->1882[label="cov=28, len=82"];1883->1869[label="cov=28, len=82"];}
